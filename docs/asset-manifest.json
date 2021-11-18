@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/petitsite_scrum/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/petitsite_scrum/static/js/main.b1792238.chunk.js",
-    "main.js.map": "/petitsite_scrum/static/js/main.b1792238.chunk.js.map",
-    "runtime-main.js": "/petitsite_scrum/static/js/runtime-main.a14e68af.js",
-    "runtime-main.js.map": "/petitsite_scrum/static/js/runtime-main.a14e68af.js.map",
-    "static/css/2.a75f5a2c.chunk.css": "/petitsite_scrum/static/css/2.a75f5a2c.chunk.css",
-    "static/js/2.06819869.chunk.js": "/petitsite_scrum/static/js/2.06819869.chunk.js",
-    "static/js/2.06819869.chunk.js.map": "/petitsite_scrum/static/js/2.06819869.chunk.js.map",
-    "static/js/3.bdcf0a05.chunk.js": "/petitsite_scrum/static/js/3.bdcf0a05.chunk.js",
-    "static/js/3.bdcf0a05.chunk.js.map": "/petitsite_scrum/static/js/3.bdcf0a05.chunk.js.map",
-    "index.html": "/petitsite_scrum/index.html",
-    "static/css/2.a75f5a2c.chunk.css.map": "/petitsite_scrum/static/css/2.a75f5a2c.chunk.css.map",
-    "static/css/main.ea1455b2.chunk.css.map": "/petitsite_scrum/static/css/main.ea1455b2.chunk.css.map",
-    "static/js/2.06819869.chunk.js.LICENSE.txt": "/petitsite_scrum/static/js/2.06819869.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/petitsite_scrum/static/media/logo.6ce24c58.svg"
+    "main.css": "/scrum1/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/scrum1/static/js/main.b1792238.chunk.js",
+    "main.js.map": "/scrum1/static/js/main.b1792238.chunk.js.map",
+    "runtime-main.js": "/scrum1/static/js/runtime-main.52145f23.js",
+    "runtime-main.js.map": "/scrum1/static/js/runtime-main.52145f23.js.map",
+    "static/css/2.a75f5a2c.chunk.css": "/scrum1/static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.f4c1b807.chunk.js": "/scrum1/static/js/2.f4c1b807.chunk.js",
+    "static/js/2.f4c1b807.chunk.js.map": "/scrum1/static/js/2.f4c1b807.chunk.js.map",
+    "static/js/3.bdcf0a05.chunk.js": "/scrum1/static/js/3.bdcf0a05.chunk.js",
+    "static/js/3.bdcf0a05.chunk.js.map": "/scrum1/static/js/3.bdcf0a05.chunk.js.map",
+    "index.html": "/scrum1/index.html",
+    "static/css/2.a75f5a2c.chunk.css.map": "/scrum1/static/css/2.a75f5a2c.chunk.css.map",
+    "static/css/main.ea1455b2.chunk.css.map": "/scrum1/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.f4c1b807.chunk.js.LICENSE.txt": "/scrum1/static/js/2.f4c1b807.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/scrum1/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a14e68af.js",
+    "static/js/runtime-main.52145f23.js",
     "static/css/2.a75f5a2c.chunk.css",
-    "static/js/2.06819869.chunk.js",
+    "static/js/2.f4c1b807.chunk.js",
     "static/css/main.ea1455b2.chunk.css",
     "static/js/main.b1792238.chunk.js"
   ]
